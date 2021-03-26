@@ -1,11 +1,7 @@
 # Who Am I ?
 
-*  I have been given a name - "Souvik Santra".   (◕‿◕)
+*  Just a guy interested in designing stuffs (Web Designing, UI/UX).
 
-*  I proudly call my self a Web Designer (irrespective of what others think)   <(￣︶￣)>
+*  Visit my [PORTFOLIO](https://s01k.github.io).
 
-*  I am also a (not so) proud programmer, UI/UX designer (coz, who doesn't brag about extra skills?)  (๑˃ᴗ˂)ﻭ
-
-*  Do visit my [PORTFOLIO](https://s01k.github.io) (wrote about myself in a formal way, which the society accepts)  (ﾉ´ヮ`)ﾉ*: ･ﾟ
-
-*  Last but not least, you MUST VISIT my [WEBSITE](https://souviksantra.netlify.app), or else I will *bonk you. |ʘ‿ʘ)╯
+*  Wanna know more about my interests, blogs, etc., visit my [WEBSITE](https://souviksantra.netlify.app).
