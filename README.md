@@ -2,7 +2,7 @@
 
 * 😃 I have been given a name - "Souvik Santra". 
 
-* 😋 I proudly call my self a web developer (irrespective of what others think)
+* 😋 I proudly call my self a Web Designer (irrespective of what others think)
 
 * 😎 I am also a (not so) proud programmer, UI/UX designer (coz, who doesn't brag about extra skills?)
 
