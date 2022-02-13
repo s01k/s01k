@@ -9,4 +9,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s01k&theme=flag-india&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s01k&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-##### These status cards were made by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
+`Status card credits:` [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
