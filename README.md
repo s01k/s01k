@@ -1,7 +1,5 @@
 # II ૐ Sri Paramatmane Namah II
 
-## Who Am I ?
-
 *  Yest another human being showing README.md
 
 *  Visit my [PORTFOLIO](https://s01k.github.io) to know more.
