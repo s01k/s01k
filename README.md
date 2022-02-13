@@ -2,11 +2,9 @@
 
 ## Who Am I ?
 
-*  Just a guy interested in designing stuffs (Web Designing, UI/UX).
+*  Yest another human being showing README.md
 
-*  Visit my [PORTFOLIO](https://s01k.github.io).
-
-*  Wanna know more about my interests, blogs, etc., visit my [WEBPAGE](https://souviksantra.netlify.app).
+*  Visit my [PORTFOLIO](https://s01k.github.io) to know more.
 
 
 ## Profile status
