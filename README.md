@@ -1,8 +1,6 @@
 # II ૐ Sri Paramatmane Namah II
 
-*  Yest another human being showing README.md
-
-*  Visit my [PORTFOLIO](https://s01k.github.io) to know more about me and my qualifications.
+- My [PORTFOLIO](https://s01k.github.io)
 
 
 ## Profile statistics
